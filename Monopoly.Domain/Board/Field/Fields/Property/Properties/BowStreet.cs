@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using Engine.Board.Field.Building;
+using Monopoly.Domain.Board.Field.Building;
 
-namespace Engine.Board.Field.Fields.Property.Properties
+namespace Monopoly.Domain.Board.Field.Fields.Property.Properties
 {
     public class BowStreet : IProperty
     {

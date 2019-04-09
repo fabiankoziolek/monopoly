@@ -1,4 +1,4 @@
-namespace Engine.Board.Field.Building.Builder
+namespace Monopoly.Domain.Board.Field.Building.Builder
 {
     public interface IBuildingBuilder
     {

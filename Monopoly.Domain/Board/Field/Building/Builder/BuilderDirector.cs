@@ -1,8 +1,7 @@
 using System;
 using System.Drawing;
-using Domain.Board.Field.Building.Builder;
 
-namespace Engine.Board.Field.Building.Builder
+namespace Monopoly.Domain.Board.Field.Building.Builder
 {
     public class BuilderDirector
     {

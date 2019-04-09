@@ -1,4 +1,4 @@
-namespace Engine.Player
+namespace Monopoly.Domain.Player
 {
     public interface IPlayer
     {

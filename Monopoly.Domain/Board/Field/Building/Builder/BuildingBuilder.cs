@@ -1,7 +1,4 @@
-using Engine.Board.Field.Building;
-using Engine.Board.Field.Building.Builder;
-
-namespace Domain.Board.Field.Building.Builder
+namespace Monopoly.Domain.Board.Field.Building.Builder
 {
     public class BuildingBuilder : IBuildingBuilder
     {
@@ -9,7 +6,7 @@ namespace Domain.Board.Field.Building.Builder
         //TODO: move to engine
         public IBuildingBuilder Reset()
         {
-            _building = new Engine.Board.Field.Building.Building();
+            _building = new Building();
             return this;
         }
 

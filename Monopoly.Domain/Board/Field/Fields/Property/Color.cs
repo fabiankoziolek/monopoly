@@ -1,4 +1,4 @@
-namespace Engine.Board.Field.Fields.Property
+namespace Monopoly.Domain.Board.Field.Fields.Property
 {
     public enum Color
     {

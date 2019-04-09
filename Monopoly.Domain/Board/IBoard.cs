@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using Engine.Board.Field;
+using Monopoly.Domain.Board.Field;
 
-namespace Engine.Board
+namespace Monopoly.Domain.Board
 {
     public interface IBoard
     {

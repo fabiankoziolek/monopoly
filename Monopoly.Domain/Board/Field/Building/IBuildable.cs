@@ -1,4 +1,4 @@
-namespace Engine.Board.Field.Building
+namespace Monopoly.Domain.Board.Field.Building
 {
     public interface IBuildable
     {

@@ -1,6 +1,4 @@
-using Engine.Player;
-
-namespace Engine.Board.Field
+namespace Monopoly.Domain.Board.Field
 {
     public interface IField
     {
