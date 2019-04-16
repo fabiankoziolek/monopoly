@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using Monopoly.Domain.Board.Field.Building;
-using Monopoly.Domain.Player;
+using Monopoly.Domain.Players;
 
 namespace Monopoly.Domain.Board.Field.Fields.Property
 {

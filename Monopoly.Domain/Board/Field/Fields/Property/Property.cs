@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using Monopoly.Domain.Board.Field.Building;
-using Monopoly.Domain.Player;
+using Monopoly.Domain.Players;
 
 namespace Monopoly.Domain.Board.Field.Fields.Property
 {
@@ -10,7 +10,6 @@ namespace Monopoly.Domain.Board.Field.Fields.Property
         public Color Color { get; protected set; }
         public IList<IBuilding> Buildings { get; set; }
         public IPlayer Owner { get; private set; }
-        
         
         public void SetOwner(IPlayer player)
         {
